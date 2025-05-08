@@ -23,13 +23,13 @@ repository               : "jin-deng/jin-deng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jin Deng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #location         : "Earth"
+  employer         : "Hong Kong University of Sicence and Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jin.deng@connect.ust.hk" 
 
   # Academic websites
   academia         : # URL
